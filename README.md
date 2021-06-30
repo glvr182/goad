@@ -1,0 +1,2 @@
+# goad
+Go Auto Doc
